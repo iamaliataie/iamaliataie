@@ -16,7 +16,7 @@
 -->
 # Here are some ideas to get you started:
 - 👨‍💻 Personal portfolio: <a href="https://ataie.dev" target="_blank">Portfolio</a>
-- 📫 How to reach me: <a href="mailto:hello@ataie.dev">hello@ataie.dev</a>
+- 📫 How to reach me: <a href="mailto:ali@ataie.dev">ali@ataie.dev</a>
 - 🔭 I’m currently working on <a href="https://github.com/iamaliataie/django-real-estate-management" target="_blank">Real Estate Management using Django</a>
 
 
