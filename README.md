@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./Frame 2.jpg " width="300" align="right">
+<img src="https://raw.githubusercontent.com/iamaliataie/iamaliataie/main/Frame%202.jpg " width="350" align="right">
 
 # Here are some ideas to get you started:
 
