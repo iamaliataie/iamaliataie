@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <filter id="Rectangle_2" x="49.5" y="49.5" width="1032" height="1032" filterUnits="userSpaceOnUse">
+      <feOffset dx="25" dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10.5" result="blur"/>
+      <feFlood flood-color="#525252" flood-opacity="0.729"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Instagram_Post_1">
+      <rect width="1080" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Instagram_Post_1" data-name="Instagram Post – 1" clip-path="url(#clip-Instagram_Post_1)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1080" height="1080" rx="65" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_2)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="969" height="969" rx="65" transform="translate(56 56)"/>
+    </g>
+    <text id="First_rule_of_programming:_If_it_works_don_t_touch_it." data-name="First rule of
+programming:
+If it works
+don’t touch it." transform="translate(156 310)" fill="#fff" font-size="82" font-family="FiraCode-Bold, Fira Code" font-weight="700"><tspan x="0" y="76">First rule of</tspan><tspan letter-spacing="0.07em"><tspan x="0" y="194">programming:</tspan></tspan><tspan fill="#66e0f0" letter-spacing="0.12em"><tspan x="0" y="312">If it works</tspan></tspan><tspan fill="#db3f3f"><tspan x="0" y="430">don’t touch it.</tspan></tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(16 17)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="25" cy="25" r="25" transform="translate(101 94)" fill="#f35c55"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="25" cy="25" r="25" transform="translate(169 94)" fill="#fabb2d"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="25" cy="25" r="25" transform="translate(238 94)" fill="#54c942"/>
+    </g>
+  </g>
+</svg>
