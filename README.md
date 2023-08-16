@@ -44,9 +44,13 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamaliataie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamaliataie&theme=dark&count_private=true&show_icons=true&icon_color=2f80ed)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamaliataie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaliataie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=iamaliataie&theme=dark&count_private=true&show_icons=true&icon_color=2f80ed)
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamaliataie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
