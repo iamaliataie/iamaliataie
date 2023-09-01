@@ -9,8 +9,8 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 🖥️ Current Software Developer at: <a href="https://netlinks.net" target="_blank">Netlinks</a>
--->
 <img src="https://raw.githubusercontent.com/iamaliataie/iamaliataie/main/Frame%202.jpg " width="350" align="right">
+-->
 
 <br/>
 
