@@ -20,7 +20,7 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 
 - 📫 How to reach me: <a href="mailto:ali@ataie.dev">ali@ataie.dev</a>
 
-- 🔭 I’m currently working on <a href="https://github.com/iamaliataie/django-real-estate-management" target="_blank">Real Estate Management using Django</a>
+- 🔭 I’m currently working on <a href="#" target="_blank">Real Estate Management using Vue</a>
 
 - 🌱 I’m currently learning VueJs and NuxtJs
 
