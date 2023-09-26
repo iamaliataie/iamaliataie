@@ -11,12 +11,12 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 - 🖥️ Current Software Developer at: <a href="https://netlinks.net" target="_blank">Netlinks</a>
 <img src="https://raw.githubusercontent.com/iamaliataie/iamaliataie/main/Frame%202.jpg " width="350" align="right">
 - ⚡ Fun fact: in love with sleeping
-- ![](https://komarev.com/ghpvc/?username=iamaliataie)
 -->
 
 <br/>
 
 # Here are some ideas to get you started:
+- ![](https://komarev.com/ghpvc/?username=iamaliataie)
 
 - 🌐 Personal portfolio: <a href="https://ataie.dev" target="_blank">Portfolio</a>
 
