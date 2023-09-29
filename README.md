@@ -56,6 +56,7 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamaliataie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
+
 <br/>
 
 
