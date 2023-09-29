@@ -16,6 +16,7 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 
 <br/>
 
+
 # Here are some ideas to get you started:
 
 - 🌐 Personal portfolio: <a href="https://ataie.dev" target="_blank">Portfolio</a>
