@@ -54,6 +54,7 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamalialiataie) 
 
+
 <!--
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamaliataie) 
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=iamaliataie&theme=dark&count_private=true&show_icons=true&icon_color=2f80ed)
