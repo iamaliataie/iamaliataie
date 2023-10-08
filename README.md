@@ -28,7 +28,6 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 
 - 💬 Ask me about Python / Django, JavaScript / VueJS
 
-
 <br/>
 
 
