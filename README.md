@@ -3,6 +3,7 @@
 My name is Ali Ahmad Ataie.
 I have completed my bachelor's degree in computer science in 2022. I am a web developer from Kabul, Afghanistan with a vast array of knowledge in many different frontend and backend languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can be.
 
+
 <!--
 **iamaliataie/iamaliataie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
