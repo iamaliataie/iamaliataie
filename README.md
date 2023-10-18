@@ -13,7 +13,6 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 - ⚡ Fun fact: in love with sleeping
 - ![](https://komarev.com/ghpvc/?username=iamaliataie)
 -->
-
 <br/>
 
 # Here are some ideas to get you started:
