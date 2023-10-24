@@ -50,6 +50,7 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaliataie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamalialiataie) 
 <!--
