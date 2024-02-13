@@ -40,6 +40,7 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 <img src="https://raw.githubusercontent.com/iamaliataie/iamaliataie/main/Frame%202.jpg " width="350" align="right">
 - ⚡ Fun fact: in love with sleeping
 - ![](https://komarev.com/ghpvc/?username=iamaliataie)
+- 🔭 I’m currently working on <a href="https://github.com/iamaliataie/vue-dashboard" target="_blank">Real Estate Management using Vue</a>
 -->
 
 <br/>
@@ -50,7 +51,6 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 
 - 📫 How to reach me: <a href="mailto:ali@ataie.dev">ali@ataie.dev</a>
 
-- 🔭 I’m currently working on <a href="https://github.com/iamaliataie/vue-dashboard" target="_blank">Real Estate Management using Vue</a>
 
 - 🌱 I’m currently learning VueJs and NuxtJs
 
