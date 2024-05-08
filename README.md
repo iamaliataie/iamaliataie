@@ -71,9 +71,9 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 
 # Here are some ideas to get you started:
 
-- 🌐 Personal portfolio: <a href="https://ataie.dev" target="_blank">Portfolio</a>
+- 🌐 Personal portfolio: <a href="https://ataie.vercel.app" target="_blank">Portfolio</a>
 
-- 📫 How to reach me: <a href="mailto:ali@ataie.dev">ali@ataie.dev</a>
+- 📫 How to reach me: <a href="mailto:ataie.dev@gmail.com">ataie.dev@gmail.com</a>
 
 
 - 🌱 I’m currently learning VueJs and NuxtJs
