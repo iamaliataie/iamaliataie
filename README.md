@@ -65,20 +65,20 @@ I have completed my bachelor's degree in computer science in 2022. I am a web de
 - ⚡ Fun fact: in love with sleeping
 - ![](https://komarev.com/ghpvc/?username=iamaliataie)
 - 🔭 I’m currently working on <a href="https://github.com/iamaliataie/vue-dashboard" target="_blank">Real Estate Management using Vue</a>
+- 🌐 Personal portfolio: <a href="https://ataie.vercel.app" target="_blank">Portfolio</a>
 -->
 
 <br/>
 
 # Here are some ideas to get you started:
 
-- 🌐 Personal portfolio: <a href="https://ataie.vercel.app" target="_blank">Portfolio</a>
 
 - 📫 How to reach me: <a href="mailto:ataie.dev@gmail.com">ataie.dev@gmail.com</a>
 
 
 - 🌱 I’m currently learning VueJs and NuxtJs
 
-- 💬 Ask me about Python / Django, JavaScript / VueJS
+- 💬 Ask me about Python / Django, JavaScript / ReactJS
 
 <br/>
 
