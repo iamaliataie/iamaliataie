@@ -20,7 +20,7 @@ Driven by innovation, I am always eager to explore new technologies and enhance 
 
 <br/>
 
-# Here are some ideas to get you started:
+# Contact Me:
 
 
 - 📫 How to reach me: <a href="mailto:ataie.dev@gmail.com">ataie.dev@gmail.com</a>
