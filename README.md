@@ -15,7 +15,7 @@ Driven by innovation, I am always eager to explore new technologies and enhance 
 - ⚡ Fun fact: in love with sleeping
 - ![](https://komarev.com/ghpvc/?username=iamaliataie)
 - 🔭 I’m currently working on <a href="https://github.com/iamaliataie/vue-dashboard" target="_blank">Real Estate Management using Vue</a>
-- 🌐 Personal portfolio: <a href="https://ataie.vercel.app" target="_blank">Portfolio</a>
+- 🌱 I’m currently learning VueJs and NuxtJs
 -->
 
 <br/>
@@ -25,8 +25,7 @@ Driven by innovation, I am always eager to explore new technologies and enhance 
 
 - 📫 How to reach me: <a href="mailto:ataie.dev@gmail.com">ataie.dev@gmail.com</a>
 
-
-- 🌱 I’m currently learning VueJs and NuxtJs
+- 🌐 Personal portfolio: <a href="https://ataie.vercel.app" target="_blank">Portfolio</a>
 
 - 💬 Ask me about Python / Django, JavaScript / ReactJS
 
